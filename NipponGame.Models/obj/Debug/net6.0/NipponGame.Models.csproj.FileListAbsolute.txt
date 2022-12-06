@@ -1,0 +1,12 @@
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\bin\Debug\net6.0\NipponGame.Models.deps.json
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\bin\Debug\net6.0\NipponGame.Models.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\bin\Debug\net6.0\NipponGame.Models.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.AssemblyInfo.cs
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\refint\NipponGame.Models.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\NipponGame.Models.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Models\obj\Debug\net6.0\ref\NipponGame.Models.dll

@@ -1,0 +1,3 @@
+﻿1º Cria o conjunto de regras de conexão JSON no SQL server dentro do appsettings
+2º Cria um modelo com os parâmetros para Table dentro da pasta /Models
+3º Cria se um injetor DbContext usando Entity Framework na pasta /Data

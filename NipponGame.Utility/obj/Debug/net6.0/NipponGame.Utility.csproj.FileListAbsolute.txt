@@ -1,0 +1,12 @@
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\bin\Debug\net6.0\NipponGame.Utility.deps.json
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\bin\Debug\net6.0\NipponGame.Utility.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\bin\Debug\net6.0\NipponGame.Utility.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.AssemblyInfo.cs
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\refint\NipponGame.Utility.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\NipponGame.Utility.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.Utility\obj\Debug\net6.0\ref\NipponGame.Utility.dll

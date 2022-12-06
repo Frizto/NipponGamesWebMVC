@@ -1,0 +1,17 @@
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.DataAccess.deps.json
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.DataAccess.runtimeconfig.json
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.DataAccess.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.DataAccess.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.Models.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\bin\Debug\net6.0\NipponGame.Models.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.AssemblyInfo.cs
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.csproj.CopyComplete
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\refint\NipponGame.DataAccess.dll
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.pdb
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\NipponGame.DataAccess.genruntimeconfig.cache
+D:\Code Projects\C# Course\NipponGameWebMVC\NipponGame.DataAccess\obj\Debug\net6.0\ref\NipponGame.DataAccess.dll
