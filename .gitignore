@@ -1,6 +1,3 @@
 #ignored files 
 
 localConnect.txt
-
-# add .env file to .gitignore
-echo "appsettings.json" >> .gitignore
