@@ -1,2 +1,6 @@
+#ignored files 
+
 localConnect.txt
-/NipponGamesWeb/appsettings.json
+
+# add .env file to .gitignore
+echo "appsettings.json" >> .gitignore
